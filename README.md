@@ -1,1 +1,2 @@
 # ProjectManagement
+Developed a Project Management System using the MERN stack (MongoDB, Express.js, React.js, Node.js) to streamline project management. The application features task assignment, progress tracking, and collaboration tools, with a user-friendly React.js interface for real-time updates. MongoDB ensures scalable data storage, while Express.js and Node.js handle server-side logic and APIs. The system includes user authentication, role-based access, and secure data handling, making it ideal for managing projects of any scale.
